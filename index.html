@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poemas para Ania</title>
+
+  <!-- Google Fonts (CDN, sin instalar nada) -->
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Cinzel:wght@300;400&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
+
+  <!-- Tu CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Canvas para las estrellas animadas -->
+  <canvas id="stars-canvas"></canvas>
+
+  <!-- Botón menú móvil -->
+  <button id="menu-toggle" aria-label="Abrir menú" onclick="toggleSidebar()">
+    <span></span><span></span><span></span>
+  </button>
+
+  <!-- Barra lateral de navegación -->
+  <nav id="sidebar">
+    <div id="sidebar-header">
+      <div id="sidebar-label">Colección</div>
+      <div id="sidebar-title">Poemas para Ania</div>
+    </div>
+    <!-- Los links se generan aquí dinámicamente por JS -->
+    <div id="sidebar-nav"></div>
+  </nav>
+
+  <!-- Contenido principal -->
+  <main id="main">
+
+    <!-- Pantalla de entrada (hero) -->
+    <section id="hero">
+      <div id="hero-ornament">✦ &nbsp; para ti &nbsp; ✦</div>
+      <h1>Poemas<br>para Ania</h1>
+      <div id="hero-divider"></div>
+      <div id="hero-sub">Escritos con el corazón</div>
+      <div id="hero-scroll" onclick="scrollToPoems()">
+        <div class="scroll-line"></div>
+        leer
+      </div>
+    </section>
+
+    <!-- Aquí JS inyecta los poemas -->
+    <section id="poems">
+      <div id="loading">Cargando poemas…</div>
+    </section>
+
+    <!-- Cierre -->
+    <footer id="closing">
+      <div id="closing-glyph">✦</div>
+      <p>Escritos para quedarse,<br>como tú te quedaste.</p>
+    </footer>
+
+  </main>
+
+  <!-- Tu JS — va al final del body -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
