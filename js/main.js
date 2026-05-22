@@ -6,7 +6,7 @@
 
 async function loadPoems() {
   try {
-    const res = await fetch('data/Ania_Poemas.md');
+    const res = await fetch('data/Ania_Poemas.md?v=' + new Date().getTime());
     if (!res.ok) throw new Error('No se pudo cargar el archivo de poemas');
     const text = await res.text();
     const poems = parseMarkdown(text);
