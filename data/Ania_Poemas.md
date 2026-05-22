@@ -825,10 +825,9 @@ Y aun así…
 
 siguió creciendo.
 
+---
 
-
-
-# Te espero otra vez.
+## Te espero otra vez.
 
 En el mismo lugar de siempre,
 en el mismo parque,
