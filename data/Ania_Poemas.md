@@ -824,3 +824,69 @@ con lo poco que podía ofrecer.
 Y aun así…
 
 siguió creciendo.
+
+
+
+
+# Te espero otra vez.
+
+En el mismo lugar de siempre,
+en el mismo parque,
+bajo el mismo cielo grisáceo de la mañana,
+con el mismo aire frío inundando mi rostro
+como si nada hubiera cambiado.
+
+Y eso es lo extraño.
+
+Todo parece normal.
+Demasiado normal.
+
+La gente sigue caminando,
+los árboles siguen moviéndose con el viento,
+las bancas continúan ahí,
+el mundo sigue avanzando
+como si no faltara nada.
+
+Pero faltas tú.
+
+Y entonces esa normalidad
+se siente incompleta.
+
+Espero,
+miro alrededor,
+intento encontrarte entre la multitud…
+
+pero no estás.
+
+No logro verte
+en ninguno de esos lugares
+donde antes parecías encajar tan fácilmente.
+
+Y me pregunto:
+
+¿qué hago ahora?
+
+¿Cómo se encuentra a alguien
+que ya no está donde solía estar?
+
+¿Dónde te busco?
+
+Y al final
+no me queda más que volver
+a mis prosas,
+a mis libros,
+a las páginas donde dejé escrito
+todo lo que eras para mí.
+
+Porque ahí sigues existiendo.
+
+Entre frases mal subrayadas,
+entre márgenes llenos de pensamientos tuyos,
+entre recuerdos que todavía conservan tu voz.
+
+Quiero volver a estar a tu lado,
+aunque sea un instante pequeño,
+aunque sea solo para sentir
+que todavía queda algo de nosotros
+bajo este mismo cielo.
+
